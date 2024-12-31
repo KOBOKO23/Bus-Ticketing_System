@@ -1,0 +1,102 @@
+2024-12-26 13:34:18,384 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.200.31:5001
+2024-12-26 13:34:18,388 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-26 13:34:18,391 - INFO -  * Restarting with stat
+2024-12-26 13:34:18,999 - WARNING -  * Debugger is active!
+2024-12-26 13:34:19,007 - INFO -  * Debugger PIN: 195-533-346
+2024-12-26 14:01:18,895 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.200.31:5001
+2024-12-26 14:01:18,895 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-26 14:01:18,899 - INFO -  * Restarting with stat
+2024-12-26 14:01:19,280 - WARNING -  * Debugger is active!
+2024-12-26 14:01:19,280 - INFO -  * Debugger PIN: 195-533-346
+2024-12-26 14:19:53,021 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.200.31:5001
+2024-12-26 14:19:53,021 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-26 14:19:53,021 - INFO -  * Restarting with stat
+2024-12-26 14:19:53,410 - WARNING -  * Debugger is active!
+2024-12-26 14:19:53,417 - INFO -  * Debugger PIN: 195-533-346
+2024-12-26 14:20:54,228 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.200.31:5002
+2024-12-26 14:20:54,228 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-26 14:20:54,228 - INFO -  * Restarting with stat
+2024-12-26 14:20:54,617 - WARNING -  * Debugger is active!
+2024-12-26 14:20:54,623 - INFO -  * Debugger PIN: 195-533-346
+2024-12-26 14:21:21,858 - INFO -  * Detected change in 'c:\\Users\\HP 840 G6\\AppData\\Roaming\\Bus-Ticketing_System\\app.py', reloading
+2024-12-26 14:21:21,908 - INFO -  * Restarting with stat
+2024-12-26 14:21:22,330 - WARNING -  * Debugger is active!
+2024-12-26 14:21:22,332 - INFO -  * Debugger PIN: 195-533-346
+2024-12-31 09:51:08,198 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.131.31:5001
+2024-12-31 09:51:08,206 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-31 09:51:08,206 - INFO -  * Restarting with stat
+2024-12-31 09:51:08,781 - WARNING -  * Debugger is active!
+2024-12-31 09:51:08,796 - INFO -  * Debugger PIN: 123-442-320
+2024-12-31 09:54:39,440 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.131.31:5001
+2024-12-31 09:54:39,440 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-31 09:54:39,446 - INFO -  * Restarting with stat
+2024-12-31 09:54:40,004 - WARNING -  * Debugger is active!
+2024-12-31 09:54:40,007 - INFO -  * Debugger PIN: 123-442-320
+2024-12-31 09:55:00,612 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.131.31:5001
+2024-12-31 09:55:00,612 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-31 09:55:00,626 - INFO -  * Restarting with stat
+2024-12-31 09:55:01,197 - WARNING -  * Debugger is active!
+2024-12-31 09:55:01,197 - INFO -  * Debugger PIN: 123-442-320
+2024-12-31 10:03:07,889 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.131.31:5001
+2024-12-31 10:03:07,889 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-31 10:03:07,893 - INFO -  * Restarting with stat
+2024-12-31 10:03:08,478 - WARNING -  * Debugger is active!
+2024-12-31 10:03:08,478 - INFO -  * Debugger PIN: 123-442-320
+2024-12-31 10:04:52,908 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.131.31:8080
+2024-12-31 10:04:52,908 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-31 10:04:52,908 - INFO -  * Restarting with stat
+2024-12-31 10:04:53,509 - WARNING -  * Debugger is active!
+2024-12-31 10:04:53,510 - INFO -  * Debugger PIN: 123-442-320
+2024-12-31 13:09:17,357 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.131.31:8080
+2024-12-31 13:09:17,357 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-31 13:09:17,373 - INFO -  * Restarting with stat
+2024-12-31 13:09:18,008 - WARNING -  * Debugger is active!
+2024-12-31 13:09:18,023 - INFO -  * Debugger PIN: 195-533-346
+2024-12-31 13:09:31,187 - INFO -  * Detected change in 'c:\\Users\\HP 840 G6\\AppData\\Roaming\\Bus-Ticketing_System\\bus_app.py', reloading
+2024-12-31 13:09:31,250 - INFO -  * Restarting with stat
+2024-12-31 13:58:31,461 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.131.31:8080
+2024-12-31 13:58:31,461 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-31 13:58:31,469 - INFO -  * Restarting with stat
+2024-12-31 13:58:32,184 - WARNING -  * Debugger is active!
+2024-12-31 13:58:32,186 - INFO -  * Debugger PIN: 195-533-346
+2024-12-31 14:05:03,981 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.131.31:8080
+2024-12-31 14:05:03,981 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-31 14:05:03,984 - INFO -  * Restarting with stat
+2024-12-31 14:05:04,675 - WARNING -  * Debugger is active!
+2024-12-31 14:05:04,679 - INFO -  * Debugger PIN: 195-533-346

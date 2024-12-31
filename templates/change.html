@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="change-details-section">
+    <h2>Booking Details</h2>
+
+    <div class="booking-info">
+        <p><strong>From:</strong> {{ busd[2][1].title() }}</p>
+        <p><strong>To:</strong> {{ busd[2][2].title() }}</p>
+        <p><strong>Departure:</strong> {{ busd[2][5] }}</p>
+        <p><strong>Arrival:</strong> {{ busd[2][6] }}</p>
+        <p><strong>Date:</strong> {{ busd[2][8] }}</p>
+        <p><strong>Name:</strong> {{ busd[1][1] }}</p>
+        <p><strong>Phone Number:</strong> {{ busd[1][2] }}</p>
+        <p><strong>Email:</strong> {{ busd[1][3] }}</p>
+        <p><strong>Passengers:</strong> {{ busd[0][3] }}</p>
+        <p><strong>Seats Available:</strong> {{ busd[2][7] }}</p>
+    </div>
+
+    <form action="{{ url_for('updel', bookid=busd[0][0]) }}" method="POST" class="update-delete-form">
+        <div class="radio-options">
+            <label for="update"><input type="radio" id="update" name="op" value="update" /> Update</label>
+            <label for="delete"><input type="radio" id="delete" name="op" value="delete" /> Delete</label>
+        </div>
+        <div class="submit-button">
+            <input type="submit" name="submit" value="Submit">
+        </div>
+    </form>
+</section>
+{% endblock %}

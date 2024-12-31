@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="booking-success">
+    <h2>Your Booking has been Successful!</h2>
+    <p>Payment successful.</p>
+    <p>Your booking ID is <strong>{{ id }}</strong>. Keep it safe in case of any booking updates!</p>
+    <a href="{{ url_for('index') }}" class="button">Return to Home</a>
+</section>
+{% endblock %}
