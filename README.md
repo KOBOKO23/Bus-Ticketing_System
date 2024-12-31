@@ -1,18 +1,17 @@
 ```markdown
-#
-Bus Ticket Reservation System
+#Bus Ticket Reservation System#
 
 A web application that allows users to reserve, update, and delete bus ticket bookings.
 
-##Tech Stack
+##Tech Stack##
 
--**Frontend**: HTML, CSS
--**Backend**: Flask
--**Database**: MySQL
--**Database Connectivity**: mysql-connector (Python)
+-Frontend: HTML, CSS
+-Backend: Flask
+-Database: MySQL
+-Database Connectivity: mysql-connector (Python)
 
 
-##Installation Steps
+##Installation Steps##
 
 1. Install Python and MySQL
    Ensure you have Python and MySQL installed on your system.
@@ -31,7 +30,7 @@ A web application that allows users to reserve, update, and delete bus ticket bo
    Execute all the SQL queries in `queries.sql` to set up the necessary database structure.
 
 5. Run the Application
-   Start the application by running the `app.py` file:
+   Start the application by running the `bus_app.py` file:
    ```bash
    python app.py
    ```
@@ -40,7 +39,7 @@ A web application that allows users to reserve, update, and delete bus ticket bo
    Open the link displayed in your terminal (usually `http://127.0.0.1:5000/`) in your web browser.
 
 
-##Features
+###Features###
 
 -**Booking Tickets**: Users can reserve bus tickets.
 -**Update Bookings**: Users can modify existing bookings.
