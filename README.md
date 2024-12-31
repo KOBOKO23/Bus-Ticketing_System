@@ -1,18 +1,57 @@
-# Bus Ticket Reservation System 
+```markdown
+# Bus Ticket Reservation System
 
-A web application for bus ticket reservation where you can reserve, update and delete your bookings. 
-Tech used:
-Frontend - HTML, CSS
-Backend - Flask
-Database - MySQL
-Database connectivity is done with mysql-connector library in python
+A web application that allows users to reserve, update, and delete bus ticket bookings.
 
-Installation steps:
-1. Install python and mysql in your system
-2. Download the following libraries using pip  
-  a. Flask  
-  b. mysql-connector
-3. Create a mysql database and update the details in the main code of app.py
-4. Run all the queries in queries.sql in the database
-5. Run app.py
-6. Open the link in the terminal
+## Tech Stack
+
+- **Frontend**: HTML, CSS
+- **Backend**: Flask
+- **Database**: MySQL
+- **Database Connectivity**: mysql-connector (Python)
+
+---
+
+## Installation Steps
+
+1. **Install Python and MySQL**  
+   Ensure you have Python and MySQL installed on your system.
+
+2. **Install Required Libraries**  
+   Use `pip` to install the following libraries:
+   ```bash
+   pip install Flask mysql-connector
+   ```
+
+3. **Set Up MySQL Database**  
+   - Create a MySQL database.
+   - Update the database connection details in the `app.py` file.
+
+4. **Run SQL Queries**  
+   Execute all the SQL queries in `queries.sql` to set up the necessary database structure.
+
+5. **Run the Application**  
+   Start the application by running the `app.py` file:
+   ```bash
+   python app.py
+   ```
+
+6. **Access the Application**  
+   Open the link displayed in your terminal (usually `http://127.0.0.1:5000/`) in your web browser.
+
+---
+
+## Features
+
+- **Booking Tickets**: Users can reserve bus tickets.
+- **Update Bookings**: Users can modify existing bookings.
+- **Cancel Bookings**: Users can delete their reservations.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
+
+The above markdown format will render properly when viewed on GitHub. Just ensure it's saved in a file named `README.md` in the root directory of your project. Let me know if you need further adjustments!
